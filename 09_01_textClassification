@@ -1,0 +1,5 @@
+
+# 01. data crawling
+# newspaper 라이브러리를 활용
+
+!pip install newspaper3k        #코랩일 경우
